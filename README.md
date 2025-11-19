@@ -20,11 +20,6 @@ Customer Support Dataset (Kaggle)
 
 Web Demo Deployment (iframe link)
 
-🌐 Live Chatbot Link
-
-Click here to test the chatbot:
-https://console.dialogflow.com/api-client/demo/embedded/8f8feaa5-bab9-4c6c-a749-3ab430d3c578
-
 📁 Repository Contents
 
 chatbot_project_report.pdf – Final project report
